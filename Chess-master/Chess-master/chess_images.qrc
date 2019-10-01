@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/chess_images">
+        <file>wrook.gif</file>
+        <file>bbishop.gif</file>
+        <file>bking.gif</file>
+        <file>bknight.gif</file>
+        <file>bpawn.gif</file>
+        <file>bqueen.gif</file>
+        <file>brook.gif</file>
+        <file>wbishop.gif</file>
+        <file>wking.gif</file>
+        <file>wknight.gif</file>
+        <file>wpawn.gif</file>
+        <file>wqueen.gif</file>
+    </qresource>
+</RCC>
